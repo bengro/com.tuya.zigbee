@@ -1,6 +1,6 @@
 {
-  "id": "com.tuya.zigbee",
-  "version": "0.2.12",
+  "id": "com.tuya.zigbee.clone",
+  "version": "0.2.13",
   "compatibility": ">=5.0.0",
   "platforms": [
     "local"
@@ -70,8 +70,8 @@
     "small": "/assets/images/small.png"
   },
   "author": {
-    "name": "Johan Bendz",
-    "email": "johan_bendz@hotmail.com"
+    "name": "BG",
+    "email": "benjamin.groehbiel@gmail.com"
   },
   "contributing": {
     "donate": {
