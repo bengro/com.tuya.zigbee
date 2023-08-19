@@ -196,5 +196,8 @@
   },
   "0.2.13": {
     "en": "Wall Thermostat support"
+  },
+  "0.2.14": {
+    "en": "Add window/door sensor"
   }
 }
